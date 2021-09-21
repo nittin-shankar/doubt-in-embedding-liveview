@@ -1,0 +1,1 @@
+This repository is created for getting a better understanding of this [topic](https://elixirforum.com/t/embedding-a-live-view-as-an-iframe/42517). There are two phoenix applications in this repository, one is *dummy* running at port 4001 and another one is *dummy2* running at port 4000.
